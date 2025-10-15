@@ -18,7 +18,7 @@ sections:
           - Visitors
           - Alumni
           - PhD Students
-          - MPhil Student
+          - MPhil Students
           - Research Assistants
       sort_by: Params.last_name
       sort_ascending: true
