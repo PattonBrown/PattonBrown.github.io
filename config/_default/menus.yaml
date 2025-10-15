@@ -21,12 +21,12 @@ main:
     weight: 50
   - name: Contact
     url: contact
-    weight: 60
+    weight: 80
   - name: Research
     url: research
-    weight: 70
+    weight: 60
   - name: Datasets
     url: datasets
-    weight: 80
+    weight: 70
 
 
