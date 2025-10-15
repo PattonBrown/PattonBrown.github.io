@@ -1,0 +1,202 @@
+[2025-10-15 02:57:54Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Bin': 'D:\Laboratory\PattonBrown.github.io\actions-runner\bin'
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Root': 'D:\Laboratory\PattonBrown.github.io\actions-runner'
+[2025-10-15 02:57:54Z INFO HostContext] Well known config file 'Credentials': 'D:\Laboratory\PattonBrown.github.io\actions-runner\.credentials'
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Bin': 'D:\Laboratory\PattonBrown.github.io\actions-runner\bin'
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Root': 'D:\Laboratory\PattonBrown.github.io\actions-runner'
+[2025-10-15 02:57:54Z INFO HostContext] Well known config file 'Runner': 'D:\Laboratory\PattonBrown.github.io\actions-runner\.runner'
+[2025-10-15 02:57:54Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2025-10-15 02:57:54Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.26100.
+[2025-10-15 02:57:54Z INFO Listener] Version: 2.329.0
+[2025-10-15 02:57:54Z INFO Listener] Commit: c76c59996c8fa32e989164a5a695efb12608ae5a
+[2025-10-15 02:57:54Z INFO Listener] Culture: zh-CN
+[2025-10-15 02:57:54Z INFO Listener] UI Culture: zh-CN
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Bin': 'D:\Laboratory\PattonBrown.github.io\actions-runner\bin'
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Root': 'D:\Laboratory\PattonBrown.github.io\actions-runner'
+[2025-10-15 02:57:54Z INFO Listener] Validating directory permissions for: 'D:\Laboratory\PattonBrown.github.io\actions-runner'
+[2025-10-15 02:57:54Z INFO CommandLineParser] Parse
+[2025-10-15 02:57:54Z INFO CommandLineParser] Parsing 1 args
+[2025-10-15 02:57:54Z INFO CommandLineParser] parsing argument
+[2025-10-15 02:57:54Z INFO CommandLineParser] HasArgs: False
+[2025-10-15 02:57:54Z INFO CommandLineParser] Adding Command: run
+[2025-10-15 02:57:54Z INFO Listener] Arguments parsed
+[2025-10-15 02:57:54Z INFO Runner] ExecuteCommand
+[2025-10-15 02:57:54Z INFO ConfigurationStore] currentAssemblyLocation: D:\Laboratory\PattonBrown.github.io\actions-runner\bin\Runner.Listener.dll
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Bin': 'D:\Laboratory\PattonBrown.github.io\actions-runner\bin'
+[2025-10-15 02:57:54Z INFO ConfigurationStore] binPath: D:\Laboratory\PattonBrown.github.io\actions-runner\bin
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Bin': 'D:\Laboratory\PattonBrown.github.io\actions-runner\bin'
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Root': 'D:\Laboratory\PattonBrown.github.io\actions-runner'
+[2025-10-15 02:57:54Z INFO ConfigurationStore] RootFolder: D:\Laboratory\PattonBrown.github.io\actions-runner
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Bin': 'D:\Laboratory\PattonBrown.github.io\actions-runner\bin'
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Root': 'D:\Laboratory\PattonBrown.github.io\actions-runner'
+[2025-10-15 02:57:54Z INFO HostContext] Well known config file 'Runner': 'D:\Laboratory\PattonBrown.github.io\actions-runner\.runner'
+[2025-10-15 02:57:54Z INFO ConfigurationStore] ConfigFilePath: D:\Laboratory\PattonBrown.github.io\actions-runner\.runner
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Bin': 'D:\Laboratory\PattonBrown.github.io\actions-runner\bin'
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Root': 'D:\Laboratory\PattonBrown.github.io\actions-runner'
+[2025-10-15 02:57:54Z INFO HostContext] Well known config file 'MigratedRunner': 'D:\Laboratory\PattonBrown.github.io\actions-runner\.runner_migrated'
+[2025-10-15 02:57:54Z INFO ConfigurationStore] MigratedConfigFilePath: D:\Laboratory\PattonBrown.github.io\actions-runner\.runner_migrated
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Bin': 'D:\Laboratory\PattonBrown.github.io\actions-runner\bin'
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Root': 'D:\Laboratory\PattonBrown.github.io\actions-runner'
+[2025-10-15 02:57:54Z INFO HostContext] Well known config file 'Credentials': 'D:\Laboratory\PattonBrown.github.io\actions-runner\.credentials'
+[2025-10-15 02:57:54Z INFO ConfigurationStore] CredFilePath: D:\Laboratory\PattonBrown.github.io\actions-runner\.credentials
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Bin': 'D:\Laboratory\PattonBrown.github.io\actions-runner\bin'
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Root': 'D:\Laboratory\PattonBrown.github.io\actions-runner'
+[2025-10-15 02:57:54Z INFO HostContext] Well known config file 'MigratedCredentials': 'D:\Laboratory\PattonBrown.github.io\actions-runner\.credentials_migrated'
+[2025-10-15 02:57:54Z INFO ConfigurationStore] MigratedCredFilePath: D:\Laboratory\PattonBrown.github.io\actions-runner\.credentials_migrated
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Bin': 'D:\Laboratory\PattonBrown.github.io\actions-runner\bin'
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Root': 'D:\Laboratory\PattonBrown.github.io\actions-runner'
+[2025-10-15 02:57:54Z INFO HostContext] Well known config file 'Service': 'D:\Laboratory\PattonBrown.github.io\actions-runner\.service'
+[2025-10-15 02:57:54Z INFO ConfigurationStore] ServiceConfigFilePath: D:\Laboratory\PattonBrown.github.io\actions-runner\.service
+[2025-10-15 02:57:54Z INFO CommandSettings] Flag 'help': 'False'
+[2025-10-15 02:57:54Z INFO CommandSettings] Flag 'version': 'False'
+[2025-10-15 02:57:54Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-10-15 02:57:54Z INFO CommandSettings] Flag 'check': 'False'
+[2025-10-15 02:57:54Z INFO CommandSettings] Command 'configure': 'False'
+[2025-10-15 02:57:54Z INFO CommandSettings] Command 'remove': 'False'
+[2025-10-15 02:57:54Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-10-15 02:57:54Z INFO ConfigurationManager] LoadSettings
+[2025-10-15 02:57:54Z INFO ConfigurationStore] IsConfigured()
+[2025-10-15 02:57:54Z INFO ConfigurationStore] IsConfigured: True
+[2025-10-15 02:57:54Z INFO ConfigurationManager] Is configured: True
+[2025-10-15 02:57:54Z INFO ConfigurationStore] Read setting file: 405 chars
+[2025-10-15 02:57:54Z INFO ConfigurationManager] Settings Loaded
+[2025-10-15 02:57:54Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-10-15 02:57:54Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-10-15 02:57:54Z INFO CommandSettings] Command 'run': 'True'
+[2025-10-15 02:57:54Z INFO ConfigurationStore] IsConfigured()
+[2025-10-15 02:57:54Z INFO ConfigurationStore] IsConfigured: True
+[2025-10-15 02:57:54Z INFO ConfigurationManager] Is configured: True
+[2025-10-15 02:57:54Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-10-15 02:57:54Z INFO Runner] Set runner startup type - Manual
+[2025-10-15 02:57:54Z INFO CommandSettings] Flag 'once': 'False'
+[2025-10-15 02:57:54Z INFO CommandSettings] Flag 'once': 'False'
+[2025-10-15 02:57:54Z INFO Runner] RunAsync
+[2025-10-15 02:57:54Z INFO ConfigurationManager] LoadMigratedSettings
+[2025-10-15 02:57:54Z INFO ConfigurationStore] IsMigratedConfigured()
+[2025-10-15 02:57:54Z INFO ConfigurationStore] IsMigratedConfigured: False
+[2025-10-15 02:57:54Z INFO Runner] Failed to load migrated settings: No migrated configuration found.
+[2025-10-15 02:57:54Z INFO Runner] Falling back to original .runner settings
+[2025-10-15 02:57:54Z INFO Runner] Using BrokerMessageListener
+[2025-10-15 02:57:54Z INFO BrokerMessageListener] Using provided settings
+[2025-10-15 02:57:54Z INFO BrokerMessageListener] {
+  "AgentId": 21,
+  "AgentName": "ENGINEER",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus4.actions.githubusercontent.com/J8hQkOjK4jlHTr6eaxLDNzJrISwU0wBgjMRVZipCw0OWK09UW1/",
+  "GitHubUrl": "https://github.com/PattonBrown/PattonBrown.github.io",
+  "WorkFolder": "_work",
+  "UseV2Flow": true,
+  "ServerUrlV2": "https://broker.actions.githubusercontent.com/"
+}
+[2025-10-15 02:57:54Z INFO BrokerMessageListener] Loading Credentials
+[2025-10-15 02:57:54Z INFO ConfigurationStore] HasCredentials()
+[2025-10-15 02:57:54Z INFO ConfigurationStore] stored True
+[2025-10-15 02:57:54Z INFO CredentialManager] GetCredentialProvider
+[2025-10-15 02:57:54Z INFO CredentialManager] Creating type OAuth
+[2025-10-15 02:57:54Z INFO CredentialManager] Creating credential type: OAuth
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Bin': 'D:\Laboratory\PattonBrown.github.io\actions-runner\bin'
+[2025-10-15 02:57:54Z INFO HostContext] Well known directory 'Root': 'D:\Laboratory\PattonBrown.github.io\actions-runner'
+[2025-10-15 02:57:54Z INFO HostContext] Well known config file 'RSACredentials': 'D:\Laboratory\PattonBrown.github.io\actions-runner\.credentials_rsaparams'
+[2025-10-15 02:57:54Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\Laboratory\PattonBrown.github.io\actions-runner\.credentials_rsaparams
+[2025-10-15 02:57:54Z INFO BrokerMessageListener] Attempt to create session.
+[2025-10-15 02:57:54Z INFO BrokerMessageListener] Connecting to the Broker Server...
+[2025-10-15 02:57:54Z INFO ConfigurationStore] HasCredentials()
+[2025-10-15 02:57:54Z INFO ConfigurationStore] stored True
+[2025-10-15 02:57:54Z INFO CredentialManager] GetCredentialProvider
+[2025-10-15 02:57:54Z INFO CredentialManager] Creating type OAuth
+[2025-10-15 02:57:54Z INFO CredentialManager] Creating credential type: OAuth
+[2025-10-15 02:57:54Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\Laboratory\PattonBrown.github.io\actions-runner\.credentials_rsaparams
+[2025-10-15 02:57:54Z INFO BrokerMessageListener] VssConnection created
+[2025-10-15 02:57:54Z INFO BrokerMessageListener] Connecting to the Runner server...
+[2025-10-15 02:57:54Z INFO RunnerServer] EstablishVssConnection
+[2025-10-15 02:57:54Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-10-15 02:57:54Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-10-15 02:57:54Z INFO RunnerServer] EstablishVssConnection
+[2025-10-15 02:57:54Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-10-15 02:57:54Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-10-15 02:57:54Z INFO RunnerServer] EstablishVssConnection
+[2025-10-15 02:57:54Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-10-15 02:57:54Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-10-15 02:57:55Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-10-15 02:57:55Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-10-15 02:57:55Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-10-15 02:57:56Z INFO BrokerMessageListener] VssConnection created
+[2025-10-15 02:57:56Z INFO Terminal] WRITE LINE: 
+[2025-10-15 02:57:56Z INFO Terminal] WRITE LINE: 
+[2025-10-15 02:57:56Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\Laboratory\PattonBrown.github.io\actions-runner\.credentials_rsaparams
+[2025-10-15 02:57:56Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\Laboratory\PattonBrown.github.io\actions-runner\.credentials_rsaparams
+[2025-10-15 02:58:08Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-10-15 02:58:08Z WARN GitHubActionsService] Retrieving an AAD auth token took a long time (12.1555235 seconds)
+[2025-10-15 02:58:09Z ERR  GitHubActionsService] POST request to https://broker.actions.githubusercontent.com/session failed. System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.RawHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2025-10-15 02:58:09Z ERR  BrokerMessageListener] Catch exception during create session.
+[2025-10-15 02:58:09Z ERR  BrokerMessageListener] System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpRequestMessage message, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Uri requestUri, HttpContent content, IEnumerable`1 queryParameters, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at GitHub.Actions.RunService.WebApi.BrokerHttpClient.CreateSessionAsync(TaskAgentSession session, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.BrokerServer.CreateSessionAsync(TaskAgentSession session, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.BrokerMessageListener.CreateSessionAsync(CancellationToken token)
+[2025-10-15 02:58:09Z ERR  BrokerMessageListener] #####################################################
+[2025-10-15 02:58:09Z ERR  BrokerMessageListener] System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+[2025-10-15 02:58:09Z INFO BrokerMessageListener] Retriable exception: The SSL connection could not be established, see inner exception.
+[2025-10-15 02:58:09Z ERR  Terminal] WRITE ERROR: 2025-10-15 02:58:09Z: Runner connect error: The SSL connection could not be established, see inner exception.. Retrying until reconnected.
+[2025-10-15 02:58:09Z INFO BrokerMessageListener] Sleeping for 30 seconds before retrying.
+[2025-10-15 02:58:39Z INFO BrokerMessageListener] Attempt to create session.
+[2025-10-15 02:58:39Z INFO BrokerMessageListener] Connecting to the Broker Server...
+[2025-10-15 02:58:39Z INFO ConfigurationStore] HasCredentials()
+[2025-10-15 02:58:39Z INFO ConfigurationStore] stored True
+[2025-10-15 02:58:39Z INFO CredentialManager] GetCredentialProvider
+[2025-10-15 02:58:39Z INFO CredentialManager] Creating type OAuth
+[2025-10-15 02:58:39Z INFO CredentialManager] Creating credential type: OAuth
+[2025-10-15 02:58:39Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\Laboratory\PattonBrown.github.io\actions-runner\.credentials_rsaparams
+[2025-10-15 02:58:39Z INFO BrokerMessageListener] VssConnection created
+[2025-10-15 02:58:39Z INFO BrokerMessageListener] Connecting to the Runner server...
+[2025-10-15 02:58:39Z INFO RunnerServer] EstablishVssConnection
+[2025-10-15 02:58:39Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-10-15 02:58:39Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-10-15 02:58:39Z INFO RunnerServer] EstablishVssConnection
+[2025-10-15 02:58:39Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-10-15 02:58:39Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-10-15 02:58:39Z INFO RunnerServer] EstablishVssConnection
+[2025-10-15 02:58:39Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-10-15 02:58:39Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-10-15 02:58:40Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-10-15 02:58:40Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-10-15 02:58:40Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-10-15 02:58:40Z INFO BrokerMessageListener] VssConnection created
+[2025-10-15 02:58:40Z INFO Terminal] WRITE LINE: 
+[2025-10-15 02:58:40Z INFO Terminal] WRITE LINE: 
+[2025-10-15 02:58:40Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\Laboratory\PattonBrown.github.io\actions-runner\.credentials_rsaparams
+[2025-10-15 02:58:40Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\Laboratory\PattonBrown.github.io\actions-runner\.credentials_rsaparams
+[2025-10-15 02:58:41Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-10-15 02:58:42Z INFO BrokerMessageListener] Session created.
+[2025-10-15 02:58:42Z INFO Terminal] WRITE LINE: 2025-10-15 02:58:42Z: Runner reconnected.
+[2025-10-15 02:58:42Z INFO Terminal] WRITE LINE: Current runner version: '2.329.0'
+[2025-10-15 02:58:42Z INFO Terminal] WRITE LINE: 2025-10-15 02:58:42Z: Listening for Jobs
+[2025-10-15 02:58:42Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
