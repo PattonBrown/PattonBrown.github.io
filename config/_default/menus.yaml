@@ -25,4 +25,7 @@ main:
   - name: Research
     url: research
     weight: 70
+  - name: Authors
+    url: authors
+    weight: 80
 
