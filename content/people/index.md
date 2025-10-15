@@ -17,6 +17,9 @@ sections:
           - Administration
           - Visitors
           - Alumni
+          - PhD Students
+          - MPhil Student
+          - Research Assistants
       sort_by: Params.last_name
       sort_ascending: true
     design:
